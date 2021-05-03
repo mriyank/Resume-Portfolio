@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name": "Mriyank Singh",
+    "occupation": "Frontend Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "I am a Passionate Web Developer, ML Enthusiast and Simple Human Being.",
+    "contactmessage": "Get in touch with me!",
+    "email": "mriyanksingh@gmail.com",
+    "phone": "+91 9315798534",
+    "address": {
+      "street": "Defence Colony",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110024"
+    },
+    "website": "mriyank.tech",
+    "resumedownload": "https://drive.google.com/file/d/1sgXkwYjbrB7JVH98W8XM4qdQUBhBOJ7I/view?usp=sharing",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mriyank-singh-991555183/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mriyank",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "degree": "Bachelor's of Technology, Computer Science and Engineering",
+        "graduated": "July 2016 - Present ",
+        "description": "CGPA - 7.95"
+      }
+    ],
+    "work": [
+      {
+        "company": "Humourbaba",
+        "title": "Software Development Intern",
+        "years": "Dec 2020 - March 2021",
+        "description": "Worked on frontend and backend of the admin page of Humourbaba’s ecommerce website using stacks – Reactjs, Nodejs, Firebase, Material UI, google maps api and more that resulted in optimized Admin experience and a faster overall functioning of the company's website. I also contributed in daily tasks of maintaining and optimizing the overall website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker ",
+        "category": "",
+        "image": "covid19tracker.png",
+        "url": "https://thecovid19-tracker.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
