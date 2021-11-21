@@ -4,7 +4,7 @@
     "occupation": "MERN Stack Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "B.Tech. in Computer Science and Engineering from Vellore Institute of Technology, Vellore (2018-22). My interestlies in Frontend Web Development. I strongly believe thatthe skills thatI possesswill help me contribute to a meaningful change in your organization. In addition to this, I also had an opportunity to acquire knowledge in different programming languages during my course. Seeking an opportunity where I can learn new things while contributing to the growth of the organization as well as me.",
+    "bio": "B.Tech. in Computer Science and Engineering from Vellore Institute of Technology, Vellore (2018-22). My interest lies in Frontend Web Development. I strongly believe that the skills that I possess will help me contribute to a meaningful change in your organization. In addition to this, I also had an opportunity to acquire knowledge in different programming languages during my course. Seeking an opportunity where I can learn new things while contributing to the growth of the organization as well as me.",
     "contactmessage": "Get in touch with me!",
     "email": "mriyanksingh@gmail.com",
     "phone": "+91 9315798534",
@@ -51,7 +51,7 @@
         "company": "JP Morgan Chase& Co.",
         "title": "Software Engineering Virtual Experience",
         "years": "May 2020 - May 2020",
-        "description": "Display data visually for traders, Use JPMorgan Chase frameworks and tools, Interfacewith a stock price data feed. Tech used - Python, Reactjs"
+        "description": "Display data visually for traders, Use JPMorgan Chase frameworks and tools, Interface with a stock price data feed. Tech used - Python, Reactjs"
       }
     ],
     "skills": [
