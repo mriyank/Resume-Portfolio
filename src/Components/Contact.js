@@ -121,12 +121,12 @@ const Contact = ({ data }) => {
           <div className="widget widget_contact">
             <h4>Address and Phone</h4>
             <p className="address">
-              {contactName}
-              <br />
+              {/* {contactName}
+              <br /> */}
               {contactEmail}
               <br />
+              {street}
               <br />
-              {street} <br />
               {city}, {state} {zip}
               <br />
               <span>{phone}</span>

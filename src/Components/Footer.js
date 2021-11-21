@@ -19,14 +19,14 @@ const Footer = ({ data }) => {
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
 
-          <ul className="copyright">
+          {/* <ul className="copyright">
             <li>
               Made by{" "}
               <a title="Mriyank" href="https://github.com/mriyank">
-                MRIYANK
+                mriyank
               </a>
             </li>
-          </ul>
+          </ul> */}
         </div>
         <div id="go-top">
           <a className="smoothscroll" title="Back to Top" href="#home">

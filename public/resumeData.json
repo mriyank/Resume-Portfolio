@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Mriyank Singh",
-    "occupation": "Frontend Web Developer",
+    "name": ".",
+    "occupation": "MERN Stack Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "I am a Passionate Web Developer, ML Enthusiast and Simple Human Being.",
+    "bio": "B.Tech. in Computer Science and Engineering from Vellore Institute of Technology, Vellore (2018-22). My interestlies in Frontend Web Development. I strongly believe thatthe skills thatI possesswill help me contribute to a meaningful change in your organization. In addition to this, I also had an opportunity to acquire knowledge in different programming languages during my course. Seeking an opportunity where I can learn new things while contributing to the growth of the organization as well as me.",
     "contactmessage": "Get in touch with me!",
     "email": "mriyanksingh@gmail.com",
     "phone": "+91 9315798534",
@@ -15,7 +15,7 @@
       "zip": "110024"
     },
     "website": "mriyank.tech",
-    "resumedownload": "https://drive.google.com/file/d/1sgXkwYjbrB7JVH98W8XM4qdQUBhBOJ7I/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/16bZQEBpw8xJ0myyxpo8DEONmAIqDiTZ-/view?usp=sharing",
     "social": [
      
       {
@@ -37,7 +37,7 @@
         "school": "Vellore Institute of Technology",
         "degree": "Bachelor's of Technology, Computer Science and Engineering",
         "graduated": "July 2018 - Present ",
-        "description": "CGPA - 7.95"
+        "description": "CGPA - 8.10"
       }
     ],
     "work": [
@@ -46,37 +46,70 @@
         "title": "Software Development Intern",
         "years": "Dec 2020 - March 2021",
         "description": "Worked on frontend and backend of the admin page of Humourbaba’s ecommerce website using stacks – Reactjs, Nodejs, Firebase, Material UI, google maps api and more that resulted in optimized Admin experience and a faster overall functioning of the company's website. I also contributed in daily tasks of maintaining and optimizing the overall website."
+      },
+      {
+        "company": "JP Morgan Chase& Co.",
+        "title": "Software Engineering Virtual Experience",
+        "years": "May 2020 - May 2020",
+        "description": "Display data visually for traders, Use JPMorgan Chase frameworks and tools, Interfacewith a stock price data feed. Tech used - Python, Reactjs"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "85%"
-      },
-      {
-        "name": "Python",
+        "name": "Java",
         "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+        
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+        
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "75%"
       },
+      
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "SQL",
+        "level": "70%"
       }
+      
+    
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "Cryptonix - Reactjs ",
+        "category": "This is a cryptocurrency information website, it provides a detailed information about top 100 cryptocurrencies including details of the cryptocurrencies, their utility, marketcap, volume, live price chart (hourly, daliy, weekly, monthly and yearly basis), info about top crypto exchanges, latest news for each cryptocurrency. The website is made with Reactjs, State Management is done using Redux Toolkit, UI Creation is done using AntDesign, charts were created using Chart.js library.",
+        "image": "cryptonix.png",
+        "url": "https://cryptonix.netlify.app"
+      },
+      {
         "title": "Covid-19 Tracker ",
-        "category": "",
-        "image": "covid19tracker.png",
+        "category": "This is a fully responsivewebsite for tracking worldwide and countrywide covid-19 cases usingReactjs, Material-UI, Chartjs, Leafletjs, OpenStreetMap and disease.sh API.",
+        "image": "covidtracker.png",
+        "url": "https://thecovid19-tracker.web.app/"
+      },
+      {
+        "title": "Tone Emotion Analyser",
+        "category": "This is a text based emotion detection system, built using WhatsonAPI to get the robust and best prediction of emotion represented in the text, it has two levels of analysis - document level and sentence level to get a brief and detailed analysis. It has multiple use cases. It can be used to analyse sentiments from any kind of textinput such as emails, tweets, etc. This tool can be used by the companies to analyse the sentiments oftheir customers on Social Media.",
+        "image": "tone.png",
+        "url": "https://thetone-analyzer.herokuapp.com"
+      },
+      {
+        "title": "Pomodoro Clock - React",
+        "category": "This is a time management website made with reactjs which implements pomodoro technique. It helps with improving the productivity of people. The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student. ",
+        "image": "pomodoro.png",
         "url": "https://thecovid19-tracker.web.app/"
       }
     ]
