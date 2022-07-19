@@ -1,7 +1,7 @@
 {
   "main": {
     "name": ".",
-    "occupation": "MERN Stack Developer",
+    "occupation": "Software Engineer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
     "bio": "B.Tech. in Computer Science and Engineering from Vellore Institute of Technology, Vellore (2018-22). My interest lies in Frontend Web Development. I strongly believe that the skills that I possess will help me contribute to a meaningful change in your organization. In addition to this, I also had an opportunity to acquire knowledge in different programming languages during my course. Seeking an opportunity where I can learn new things while contributing to the growth of the organization as well as me.",
@@ -15,7 +15,7 @@
       "zip": "110024"
     },
     "website": "mriyank.tech",
-    "resumedownload": "https://drive.google.com/file/d/16bZQEBpw8xJ0myyxpo8DEONmAIqDiTZ-/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/10JOwJ63fQZfXl5OyoekELUGDwV82ADu7/view?usp=sharing",
     "social": [
      
       {
@@ -36,11 +36,17 @@
       {
         "school": "Vellore Institute of Technology",
         "degree": "Bachelor's of Technology, Computer Science and Engineering",
-        "graduated": "July 2018 - Present ",
-        "description": "CGPA - 8.10"
+        "graduated": "2018 - 2022 ",
+        "description": "CGPA - 8.33"
       }
     ],
     "work": [
+      {
+      "company": "Stryker",
+      "title": "Intern (Enterprise Resource Planning)",
+      "years": "January 2022 - July 2022",
+      "description": "Worked on Enterprise resource planning (ERP) tool SAP ECC. Applied processes related to Forecast to Supply (FTS), Manufacturing (MFG) and Intercompany Order Management (IOM) Business Processes. Did research work on comparison of SAP ECC with latest SAP S4 Hana for Quality Management (PP), Manufacturing Modules, compared the Best Practices, Master Data Requirements,  Configurations and Fiori Apps."
+    },
       {
         "company": "Humourbaba",
         "title": "Software Development Intern",
